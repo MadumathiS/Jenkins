@@ -24,5 +24,7 @@ To help you achieve that goal, here are some of the steps you should go through:
 ## Usefull links
 
 -[Jenkins Documentation](https://www.jenkins.io/doc/)
+
 -[How to Create a New Build Job in Jenkins Freestyle Project](https://www.guru99.com/create-builds-jenkins-freestyle-project.html)
+
 -[Apache Maeven Project](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#a-build-lifecycle-is-made-up-of-phases)
