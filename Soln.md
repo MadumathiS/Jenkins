@@ -67,7 +67,7 @@ Click on “New Item” at the top left-hand side of your dashboard.
 
 In the next screen,
 
-Enter the name of the item you want to create. We shall use the “Hello world” for this demo.
+Enter the name of the item you want to create.
 Select Freestyle project
 Click Okay
 
