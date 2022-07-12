@@ -71,4 +71,6 @@ Enter the name of the item you want to create.
 Select Freestyle project
 Click Okay
 
+![Jenkins](j4.jpg)
+
 
